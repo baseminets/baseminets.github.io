@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://baseminets.github.io/sitemap.html.gz
+Sitemap: https://baseminets.github.io/app/sitemap.html.gz
+Sitemap: https://baseminets.github.io/assets/sitemap.html.gz
+Sitemap: https://baseminets.github.io/css/sitemap.html.gz
+Sitemap: https://baseminets.github.io/includes/sitemap.html.gz
+Sitemap: https://baseminets.github.io/item/sitemap.html.gz
+Sitemap: https://baseminets.github.io/src/sitemap.html.gz
